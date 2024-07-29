@@ -1,1 +1,1 @@
-# AI-paper-classifier
+# DeepDive-AI
